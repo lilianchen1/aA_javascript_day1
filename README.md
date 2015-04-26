@@ -2,7 +2,8 @@
 
 Implemented many of the ruby exercises from week1 in javascript
 
-Sample exercises:
+#### Sample exercises:
+
 1. recursion
   * make change
     - It's a function that takes in an array and a number. It returns the LEAST amount of numbers from the array that adds up to the number. make_change(14, [10, 7, 1]) returns [7, 7], not [10, 1, 1, 1].
