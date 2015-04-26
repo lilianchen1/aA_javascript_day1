@@ -19,3 +19,5 @@ Implemented many of the ruby exercises from week1 in javascript
  * define objects
  * define methods on object's prototype
  * pass objects into other objects
+
+To test the code, run `node fileName.js`
